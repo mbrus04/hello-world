@@ -39,4 +39,4 @@ System Security | A
 PLP | A
 IDC2 | A
 
-![relaxing photo](https://pixabay.com/photos/relaxing-calm-meditation-resting-1891879/)
+![relaxing photo](https://cdn.pixabay.com/photo/2017/06/29/07/20/chill-2453257_1280.jpg)
