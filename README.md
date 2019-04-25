@@ -14,7 +14,7 @@ My name is Morgan. I am creating this repository for a class assignment for the 
 * milk
 
 ## Non-Homework To-Do List
-1. \#graduate\  :mortar_board:
+1. \#graduate  :mortar_board:
 2. *find a job*
 
 ## Homework To-Do List
