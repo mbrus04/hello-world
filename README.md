@@ -29,5 +29,13 @@ My name is Morgan. I am creating this repository for a class assignment for the 
   `(define add1
       (lambda (number)
          (+ 1 number)))`
+       
+ Class | Grade
+------- | -------
+Accounting | A
+IDC PRacticum | A
+System Security | A
+PLP | A
+IDC2 | A
 
 ![relaxing photo](https://pixabay.com/photos/relaxing-calm-meditation-resting-1891879/)
