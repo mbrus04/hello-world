@@ -23,7 +23,7 @@ My name is Morgan. I am creating this repository for a class assignment for the 
   - [ ] System Security Final Project
   - [ ] #2
   mbrus04#2
-  mbrus04/100th Issue
+  mbrus04/100th-Issue#2
   - [ ] GitHub Lab for @manicsparkle
   - [ ] [Big Brother](https://charon.cs.uni.edu/brusmaa/big-brother)
   - [ ] Big Brother Presentation
