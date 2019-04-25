@@ -24,7 +24,13 @@ My name is Morgan. I am creating this repository for a class assignment for the 
   - [ ] #2
   100th-Issue
   brusmaa/100th-Issue
-  [issue #2](https://github.com/mbrus04/hello-world/issues/2)
+  [issue #2](https://github.com/mbrus04/hello-world/issues/2)'
+  
+  #1
+github-flavored-markdown#1
+defunkt/github-flavored-markdown#1
+
+
   - [ ] GitHub Lab for @manicsparkle
   - [ ] [Big Brother](https://charon.cs.uni.edu/brusmaa/big-brother)
   - [ ] Big Brother Presentation
