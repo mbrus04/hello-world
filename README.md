@@ -24,3 +24,5 @@ My name is Morgan. I am creating this repository for a class assignment for the 
   - [ ] GitHub Lab for @manicsparkle
   - [ ] [Big Brother](https://charon.cs.uni.edu/brusmaa/big-brother)
   - [ ] Big Brother Presentation
+
+[relaxing photo](https://pixabay.com/photos/relaxing-calm-meditation-resting-1891879/)
