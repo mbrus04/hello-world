@@ -17,7 +17,9 @@ My name is Morgan. I am creating this repository for a class assignment for the 
 1. **graduate**  :mortar_board:
 2. *find a job*
 3. Homework
-  * PLP Homework 11
-  * System Security Final Project
-  * GitHub Lab for @manicsparkle
-  * [Big Brother](https://charon.cs.uni.edu/brusmaa/big-brother)
+  - [x] PLP Homework 10
+  - [ ] PLP Homework 11
+  - [ ] System Security Final Project
+  - [ ] GitHub Lab for @manicsparkle
+  - [ ] [Big Brother](https://charon.cs.uni.edu/brusmaa/big-brother)
+  - [ ] Big Brother Presentation
