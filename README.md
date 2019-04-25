@@ -22,8 +22,8 @@ My name is Morgan. I am creating this repository for a class assignment for the 
   - [ ] PLP Homework 11
   - [ ] System Security Final Project
   - [ ] #2
-  github-issue#2
-  brusmaa/github-issue#2
+  100th-Issue
+  brusmaa/100th-Issue
   [issue #2](https://github.com/mbrus04/hello-world/issues/2)
   - [ ] GitHub Lab for @manicsparkle
   - [ ] [Big Brother](https://charon.cs.uni.edu/brusmaa/big-brother)
