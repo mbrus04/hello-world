@@ -13,10 +13,11 @@ My name is Morgan. I am creating this repository for a class assignment for the 
 * bread
 * milk
 
-## End of the Semester To-Do List
+## Non-Homework To-Do List
 1. **graduate**  :mortar_board:
 2. *find a job*
-3. Homework
+
+## Homework To-Do List
   - [x] PLP Homework 10
   - [ ] PLP Homework 11
   - [ ] System Security Final Project
