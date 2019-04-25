@@ -24,6 +24,7 @@ My name is Morgan. I am creating this repository for a class assignment for the 
   - [ ] #2
   mbrus04#2
   mbrus04/100th-Issue#2
+  [issue #2](https://github.com/mbrus04/hello-world/issues/2)
   - [ ] GitHub Lab for @manicsparkle
   - [ ] [Big Brother](https://charon.cs.uni.edu/brusmaa/big-brother)
   - [ ] Big Brother Presentation
