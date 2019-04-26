@@ -29,7 +29,7 @@ My name is Morgan. I am creating this repository for a class assignment for the 
   - [ ] [Big Brother](https://charon.cs.uni.edu/brusmaa/big-brother)
   - [ ] Big Brother Presentation
   
-######## I hate Racket
+###### I hate Racket
   `(define add1
       (lambda (number)
          (+ 1 number)))`
