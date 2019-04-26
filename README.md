@@ -3,21 +3,21 @@ Hello World Class Assignment Repository
 My name is Morgan. I am creating this repository for a class assignment for the class Interactive Digital Communications 2.
 
 # Markdown Lesson
-### Motivational Quotes
+## Motivational Quotes
 >The most damagining phrase in teh langauge is: 'It's always been done that way." -**Grace Hopper**
 
-## Grocery List
+### Grocery List
 * apples
 * bananas
 * grapes
 * bread
 * milk
 
-## Non-Homework To-Do List
+#### Non-Homework To-Do List
 1. \#graduate  :mortar_board:
 2. *find a job*
 
-## Homework To-Do List
+##### Homework To-Do List
   - [x] PLP Homework 10
   - [ ] PLP Homework 11
   - [ ] System Security Final Project
@@ -29,7 +29,7 @@ My name is Morgan. I am creating this repository for a class assignment for the 
   - [ ] [Big Brother](https://charon.cs.uni.edu/brusmaa/big-brother)
   - [ ] Big Brother Presentation
   
-## I hate Racket
+######## I hate Racket
   `(define add1
       (lambda (number)
          (+ 1 number)))`
